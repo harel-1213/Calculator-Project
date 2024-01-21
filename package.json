@@ -1,0 +1,12 @@
+{
+  "name": "iphone-calculator",
+  "version": "1.0.0",
+  "description": "The repo for the iPhone calculator code-along using HTML, CSS, and Vanilla JavaScript!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

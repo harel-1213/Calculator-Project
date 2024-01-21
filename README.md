@@ -13,3 +13,4 @@ Feel free to use this code for your personal projects!
 - Make keyboard inputs work with the calculator
 - Limit the visible display number to 9 digits
 - Make display font size dynamically change for when you have 6, 7, 8, 9 digits
+# Calculator-Project
