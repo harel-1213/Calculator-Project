@@ -24,4 +24,4 @@ RUN npm install
 EXPOSE 8080
 
 # Command to run when the container starts
-CMD ["http-server", "-p", "8080"]
+CMD ["npx","http-server", "-p", "8080"]
